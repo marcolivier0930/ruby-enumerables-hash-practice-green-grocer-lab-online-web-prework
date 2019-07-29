@@ -2,7 +2,7 @@ def consolidate_cart(cart)
   # code here
   count = 0 
   cart =[
-      {"AVOCADO" => {
+      
     ]
   while cart > 0 do
     cart << cart[]
