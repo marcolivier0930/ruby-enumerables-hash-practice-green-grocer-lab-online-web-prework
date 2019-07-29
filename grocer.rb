@@ -2,9 +2,11 @@ def consolidate_cart(cart)
   # code here
   count = 0 
   cart =[
+      
     ]
   while cart > 0 do
-
+    cart << cat[count]
+    count += 1
   end
 end
 
