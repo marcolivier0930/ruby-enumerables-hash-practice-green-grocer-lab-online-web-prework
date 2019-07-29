@@ -5,7 +5,7 @@ def consolidate_cart(cart)
       
     ]
   while cart > 0 do
-    cart << cart[count]
+    cart << cart[]
     count +=1
   end
 end
